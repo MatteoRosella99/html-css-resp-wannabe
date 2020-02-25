@@ -1,0 +1,48 @@
+/* Responsive for 420px */
+@media screen and (max-width:420px) {
+  #lezioni .row .left{
+    float: none;
+    margin: auto;
+    width: 70%;
+    padding-bottom: 30px;
+  }
+  #lezioni .row .right{
+    float: none;
+    margin: auto;
+    width: 70%;
+    padding-bottom: 30px;
+  }
+  #steps .row .left{
+    float: none;
+    margin: auto;
+    width: 40%;
+    padding-bottom: 30px;
+  }
+  #steps .row .central{
+    float: none;
+    margin: auto;
+    width: 40%;
+    padding-bottom: 30px;
+  }
+  #steps .row .right{
+    float: none;
+    margin: auto;
+    width: 40%;
+    padding-bottom: 30px;
+  }
+  #why .row .first{
+    margin: auto;
+    width: 60%;
+    padding-bottom: 20px;
+  }
+  #why .row .second{
+    margin: auto;
+    width: 60%;
+    padding-bottom: 20px;
+  }
+  #why .row .third{
+    margin: auto;
+    width: 60%;
+    padding-bottom: 20px;
+  }
+}
